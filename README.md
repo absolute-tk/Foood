@@ -8,7 +8,7 @@ Design and Develop with 🧡 by [absolute-tk](https://github.com/absolute-tk) in
 Breakpoints
 | Large       | Medium           | Small           |
 | ------------- |:-------------:| ------------- |
-| <img src="Playground.png" width=500>     | <img src="Playground.png" width=500> | <img src="Playground.png" width=500> |
+| <img src="Large.gif" width=500>     | <img src="Medium.gif" width=500> | <img src="Small.gif" width=500> |
 
 Responsive
 | Onboard()       | AllFoods()           | HamburgerDetails()           | Purchase()           | Succeed()           |
