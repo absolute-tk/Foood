@@ -15,16 +15,22 @@ Designed and Developed with 🧡 by [absolute-tk](https://github.com/absolute-tk
 
 The prototype was successfully developed in an experimental < 24 hrs ⏱️ casual hackathon.<br />
 Foood prototype require understanding in various Swift foundations such as :
-- NavigationStack, NavigationLink
+- NavigationStack{}, NavigationLink{}
 - foregroundStyle, stroke, overlay
+- VStack(), HStack(), ZStack()
+- .ignoreSafeArea()
+- Image Formatting
 - MapKit Framework
 - Text Formatting
-- Image Formatting
+- .cornerRadius()
 - systemMaterials
+- @State variable
 - frame, sizing
 - integer array
-- State variable
+- .clipShape()
 - menu picker
+- SF Symbols
+- #Preview
 - etc.
 <br /><br /><br />
 
