@@ -1,24 +1,33 @@
 # Foood
+
+[![](https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white&style=flat)](https://developer.apple.com/documentation/swift)
+[![](https://img.shields.io/badge/-SwiftUI-006CFD?logo=swift&logoColor=black&style=%20for-the-badge)](https://developer.apple.com/documentation/swiftui)
+[![](https://img.shields.io/badge/-Swift_Playground-F05138?logo=swift&logoColor=white&style=flat)](https://developer.apple.com/swift-playgrounds/)
+[![](https://img.shields.io/badge/iOS-17+-orange)](https://apple.com/iOS/)
+[![](https://img.shields.io/badge/iPadOS-17+-orange)](https://apple.com/iPadOS/)
+<br />
+[![](https://img.shields.io/badge/M1_12.9_iPad_Pro_-666666?&logo=apple&logoColor=white&style=flat)](https://apple.com/ipad-pro/)
+
 Design and Develop with 🧡 by [absolute-tk](https://github.com/absolute-tk) in Swift Playground on iPad Pro
 
-<img src="Playground.png" width=600>
+<img src="/README Assets/Playground.png" width=1000>
 
 ## Preview 📁
 
 Breakpoints
 | Large       | Medium           | Small           |
 | ------------- |:-------------:| ------------- |
-| <img src="Large.gif" width=500>     | <img src="Medium.gif" width=500> | <img src="Small.gif" width=500> |
+| <img src="/README Assets/Large.gif" width=500>     | <img src="/README Assets/Medium.gif" width=500> | <img src="/README Assets/Small.gif" width=500> |
 
 Responsive
 | Onboard()       | AllFoods()           | HamburgerDetails()           | Purchase()           | Succeed()           |
 | ------------- |:-------------:| :-------------: | :-------------: | ------------- |
-| <img src="Responsive1.gif" width=500>     | <img src="Responsive2.gif" width=500> | <img src="Responsive3.gif" width=500> | <img src="Responsive4.gif" width=500> | <img src="Responsive5.gif" width=500> |
+| <img src="/README Assets/Responsive1.gif" width=500>     | <img src="/README Assets/Responsive2.gif" width=500> | <img src="/README Assets/Responsive3.gif" width=500> | <img src="/README Assets/Responsive4.gif" width=500> | <img src="/README Assets/Responsive5.gif" width=500> |
 
 Logics
 | Quantity to Total Price       | Ask for Shipping Destination           |
 | ------------- | ------------- |
-| <img src="Quantity.gif" width=500>     | <img src="Location.png" width=500> |
+| <img src="/README Assets/Quantity.gif" width=500>     | <img src="/README Assets/Location.png" width=500> |
 
 
 ## Usage 💻
@@ -33,6 +42,6 @@ Logics
 9. Import `ApplePay.png` and `Foood.png` from `Foood Swift` folder using `+` button
 10. Everything is all set. Foood App Preview on the right should work.
 
-<img src="1to5.jpeg" width=500>
+<img src="/README Assets/1to5.jpeg" width=500>
 
-<img src="Import.jpeg" width=500>
+<img src="/README Assets/Import.jpeg" width=500>
