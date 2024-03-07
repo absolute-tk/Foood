@@ -8,9 +8,26 @@
 <br />
 [![](https://img.shields.io/badge/M1_12.9_iPad_Pro_-666666?&logo=apple&logoColor=white&style=flat)](https://apple.com/ipad-pro/)
 
-Design and Develop with 🧡 by [absolute-tk](https://github.com/absolute-tk) in Swift Playground on iPad Pro
+Foood is a basic SwiftUI prototype for a food delivery app <br />
+Designed and Developed with 🧡 by [absolute-tk](https://github.com/absolute-tk) in Swift Playground on iPad Pro.
 
 <img src="/README Assets/Playground.png" width=1000>
+
+The prototype was successfully developed in an experimental < 24 hrs ⏱️ casual hackathon.<br />
+Foood prototype require understanding in various Swift foundations such as :
+- NavigationStack, NavigationLink
+- foregroundStyle, stroke, overlay
+- MapKit Framework
+- Text Formatting
+- Image Formatting
+- systemMaterials
+- frame, sizing
+- integer array
+- State variable
+- menu picker
+- etc.
+<br /><br /><br />
+
 
 ## Preview 📁
 
